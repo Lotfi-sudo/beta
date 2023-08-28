@@ -1,1 +1,1 @@
-# beta.io
+# beta
